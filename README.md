@@ -127,8 +127,7 @@ pip install pyserial
 │   └── pwm_gui.py                 # Python GUI — run this on your PC
 │
 ├── docs/
-│   ├── 3phase_pwm_presentation.pptx   # Full slide deck (10 slides)
-│   └── pwm_explainer.html             # Interactive technical explainer
+│   └── PROJECT_DOCUMENT.pptx      # Project Documentation
 │
 └── README.md
 ```
