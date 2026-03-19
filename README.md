@@ -1,4 +1,4 @@
-# 3-Phase PWM Controller — Arduino UNO R4 WiFi + Python GUI
+# 3-Phase PWM Controller - Arduino UNO R4 WiFi + Python GUI
 
 [![Arduino](https://img.shields.io/badge/Board-Arduino%20UNO%20R4%20WiFi-00979D?logo=arduino&logoColor=white)](https://store.arduino.cc/products/uno-r4-wifi)
 [![MCU](https://img.shields.io/badge/MCU-Renesas%20RA4M1%20%4048%20MHz-blue)](https://www.renesas.com/en/products/microcontrollers-microprocessors/ra-cortex-m-mcus/ra4m1-32-bit-microcontrollers-48mhz-up-256kb-flash-lowest-pin-count)
